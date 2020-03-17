@@ -1,1 +1,1 @@
-https://vicstudio.club/api
+https://vicstudio.club/api/levelData
